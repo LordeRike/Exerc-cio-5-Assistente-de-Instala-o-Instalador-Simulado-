@@ -1,0 +1,2 @@
+Exercício 5: Assistente de Instalação (Instalador Simulado)
+Implemente uma interface que simule o primeiro passo de um assistente de instalação de programas. A janela deve possuir o título "Instalador v1.0". Coloque na tela a seguinte mensagem para o usuário: "Pronto para iniciar a cópia de arquivos para o disco rígido.". Adicione um botão escrito "Avançar >". Quando o botão for acionado, exiba um alerta contendo a frase: "Extraindo pacotes de instalação...".
